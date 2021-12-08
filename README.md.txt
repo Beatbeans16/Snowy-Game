@@ -1,0 +1,1 @@
+This is a Charlie Brown Christmas inspired game. Features: Charlie Brown Christmas Music, Charlie Brown Christmas Background, Charlie Brown Christmas Tree.
